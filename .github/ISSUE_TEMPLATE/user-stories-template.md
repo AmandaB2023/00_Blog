@@ -1,12 +1,13 @@
 ---
 name: User Stories template
-about: As a **role** I can **capability** so that **received benefit**
+about: User Stories Template
 title: ''
 labels: ''
 assignees: ''
 
 ---
 
+As a **role** I can **capability** so that **received benefit**
 - Acceptance criteria 1
 
 - Acceptance criteria 2
